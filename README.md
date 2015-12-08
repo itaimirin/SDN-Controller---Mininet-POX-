@@ -1,5 +1,6 @@
 # SDN-Controller---Mininet-POX-
 The objective of this small project was to learn to program an SDN controller using the POX platform
+
 -----------------------------------
 README - Programming a SDN Controller for mininet using the POX platform 
 -----------------------------------
@@ -9,7 +10,6 @@ IM_l2_learning.py
 mytopo.py
 mytopo2.py
 
--------------------------------------
 
 IM_l2_learning.py  - is my controllers Layer 2 Learning script
 
